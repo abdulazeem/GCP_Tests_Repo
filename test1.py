@@ -50,3 +50,4 @@ response = translate_client.translate_text(request=request)
 translated_text = response.translations[0].translated_text
 
 print(f"Translated text: {translated_text}")
+print("hello")
