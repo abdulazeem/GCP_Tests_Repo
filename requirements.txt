@@ -1,0 +1,4 @@
+streamlit
+pyaudio
+google-cloud-speech
+python-dotenv
